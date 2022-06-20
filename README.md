@@ -46,19 +46,24 @@ Upah Minimum Regional (UMR) adalah suatu standar minimum yang digunakan oleh par
   Metode yang digunakan dalam penelitian ini adalah metode analisis deskriptif. Analisis deskriptif adalah statistik yang digunakan untuk menganalisis data dengan cara mendeskripsikan atau menggambarkan data yang telah terkumpul sebagaimana adanya tanpa bermaksud membuat kesimpulan yang bersifat umum atau generalisasi (Sugiyono, 2017:147). Langkah-langkah yang akan digunakan dalam penelitian ini adalah sebagai berikut : 
   
 •	Studi literatur
+
 Informasi yang akan dibutuhkan dalam dashboard ini yaitu beberapa informasi mengenai Tingkat Pengangguran Terbuka (TPT), Indeks Pembangunan Manusia (IPM), jumlah penduduk, dan upah minimum regional.
 
 •	Pengumpulan data
+
 Data yang digunakan pada penelitian ini berupa data tentang Tingkat Pengangguran Terbuka (TPT) dari tahun 2010 hingga tahun 2021, khususnya data bulan Agustus pada setiap tahunnya. Selain itu juga digunakan beberapa variabel yang diadopsi dari penelitian oleh Riza Firdhania dan Fivien Muslihatinningsih. Data tersebut yaitu data Indeks Pembangunan Manusia (IPM) tahun 2020, jumlah penduduk berdasar hasil proyeksi pada tahun 2020, dan data upah minimum regional tahun 2020.
 
 •	Pemilihan tipe dashboard dan desain dashboard
+
 Pada tahap ini bertujuan untuk menentukan teknologi yang akan digunakan dalam pembuatan dashboard dan mengimplementasikan desain dashboard. Visualisasi pada proyek ini akan ditampilkan dalam sebuah dashboard informasi web. Tools yang akan digunakan untuk membuat dashboard informasi web ini adalah Tableau. Kemudian dashboard yang telah dibuat akan dipublikasikan secara online melalui github pages. 
 Selain itu, dilakukan proses pembuatan desain mockup dashboard yang menandakan bagaimana antarmuka (interface) dan peletakan komponen-komponen dashboard. Proses desain dashboard ini diperuntukkan dalam bentuk web.
 
 •	Uji coba dan evaluasi
+
 Uji coba dan evaluasi dilakukan dalam dua tahap yaitu mengevaluasi kesesuaian antara tampilan web dengan desain yang telah dibuat dan proses validasi data antara data representatif dalam dashboard dengan data mentah yang digunakan sebagai sumber datanya. 
 
 •	Dashboard Maintenance
+
 Tahap ini merupakan tahap akhir dari proses pengembangan sebuah dashboard. Pada tahap ini dilakukan perawatan berupa perubahan-perubahan yang perlu dilakukan sebagai tindakan dari hasil evaluasi dampak.
 
 # Hasil dan Pembahasan
