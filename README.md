@@ -14,6 +14,34 @@
   
   Riza Firdhania dan Fivien Muslihatinningsih melakukan penelitian yang berjudul Faktor-Faktor yang Mempengaruhi Tingkat Pengangguran di Kabupaten Jember. Penelitian ini bertujuan untuk menjelaskan hubungan antara jumlah penduduk, inflasi, upah minimum, pertumbuhan ekonomi, dan indeks pembangunan manusia terhadap tingkat pengangguran di Kabupaten Jember. Metode analisis yang digunakan dalam penelitian ini adalah analisis deskriptif dan analisis regresi linear berganda. Hasil yang diperoleh dari penelitian ini adalah secara simultan variabel jumlah penduduk, inflasi, upah minimum, pertumbuhan ekonomi, dan indeks pembangunan manusia berpengaruh signifikan terhadap tingkat pengangguran di Kabupaten jember. Berdasar pada penelitian ini, pada pembuatan visualisasi data kali ini akan ditampilkan visualisasi data terkait variabel Indeks Pembangunan Manusia (IPM), jumlah penduduk, dan upah minimum regional.
 
+# Kajian Literatur
+
+A. Tingkat Pengangguran Terbuka (TPT)
+
+BPS menjelaskan bahwa Tingkat Pengangguran Terbuka (TPT) merupakan persentase jumlah pengangguran terhadap Angkatan Kerja. Angkatan Kerja sendiri merupakan penduduk yang berusia kerja (15 tahun ke atas) yang bekerja atau punya pekerjaan namun sementara sedang tidak bekerja, dan pengangguran. Yang termasuk dalam pengangguran sendiri yaitu penduduk yang aktif mencari pekerjaan, penduduk yang sedang mempersiapkan usaha atau pekerjaan baru, penduduk yang tidak mencari pekerjaan karena merasa tidak mungkin mendapat pekerjaan, dan juga penduduk yang tidak aktif mencari pekerjaan dengan alasan sudah mempunyai pekerjaan tetapi belum mulai bekerja. Tingkat Pengangguran Terbuka (TPT) dapat dihitung menggunakan formula sebagai berikut.
+
+TPT=PP/PAK×100%
+
+dimana :
+TPT = Tingkat Pengangguran Terbuka (%)
+PP	= jumlah pengangguran (orang)
+PAK = jumlah angkatan kerja (orang)
+TPT sendiri biasanya digunakan untuk mengindikasikan besarnya persentase angkatan kerja yang termasuk dalam pengangguran.
+
+B. Indeks Pembangunan Manusia (IPM)
+
+IPM diperkenalkan oleh United Nations Development Programme (UNDP) pada tahun 1990 dan dipublikasikan berkala dalam laporan tahunan Human Development Report (HDR). IPM merupakan indikator penting untuk mengukur keberhasilan dalam upaya membangun kualitas hidup manusia. IPM menjelaskan bagaimana penduduk dapat mengakses hasil pembangunan dalam memperoleh pendapatan, kesehatan, pendidikan, dan sebagainya. IPM dibentuk oleh tiga dimensi dasar, yaitu : umur panjang dan hidup sehat, pengetahuan, dan standar hidup layak. Selain itu, IPM juga bermanfaat untuk menentukan peringkat atau level pembangunan suatu wilayah/negara. Bagi Indonesia sendiri, IPM merupakan data strategis karena selain sebagai ukuran kinerja pemerintah, IPM juga digunakan sebagai salah satu alokator penentuan Dana Alokasi Umum (BPS). Pada penelitian ini, digunakan data IPM tahun 2020 yang dihitung menggunakan metode baru. 
+
+Metode baru ini dinilai lebih unggul karena menggunakan indikator yang lebih tepat dan dapat membedakan dengan baik. Metode baru bekerja dengan memasukkan rata-rata lama sekolah dan angka harapan lama sekolah, sehingga dapat diperoleh gambaran yang lebih relevan dalam pendidikan dan perubahan yang terjadi. Selain itu PNB menggantikan PDB karena lebih menggambarkan pendapatan masyarakat pada suatu wilayah. Untuk mewujudkan pembangunan manusia yang baik, ketiga dimensi harus memperoleh perhatian yang sama besar karena sama pentingnya (BPS). 
+
+C. Penduduk
+
+Menurut BPS, Penduduk merupakan semua orang yang berdomisili di wilayah geografis Republik Indonesia selama enam bulan atau lebih. Selain itu mereka yang berdomisili kurang dari enam bulan tetapi bertujuan untuk menetap juga dikategorikan sebagai penduduk.  Akan tetapi pada pelaksanaan SP2020 terdapat pembaharuan konsep penduduk menjadi semua orang yang berdomisili di wilayah NKRI selama satu tahun atau lebih atau mereka yang berdomisili kurang dari satu tahun tetapi bertujuan untuk menetap. Jumlah penduduk dinyatakan dalam ribuan jiwa tau jutaan jiwa. Selain jumlah penduduk hasil sensus, terdapat juga jumlah penduduk hasil proyeksi. 
+
+D. Upah Minimum Regional
+
+Upah Minimum Regional (UMR) adalah suatu standar minimum yang digunakan oleh para pengusaha untuk memberikan upah kepada karyawan atau buruh, di dalam lingkungan usaha atau kerjanya (BPS). UMR yang dimaksud adalah Upah Minimum Provinsi pada tahun 2020. 
+
 # Metodologi
   Metode yang digunakan dalam penelitian ini adalah metode analisis deskriptif. Analisis deskriptif adalah statistik yang digunakan untuk menganalisis data dengan cara mendeskripsikan atau menggambarkan data yang telah terkumpul sebagaimana adanya tanpa bermaksud membuat kesimpulan yang bersifat umum atau generalisasi (Sugiyono, 2017:147). Langkah-langkah yang akan digunakan dalam penelitian ini adalah sebagai berikut : 
   
